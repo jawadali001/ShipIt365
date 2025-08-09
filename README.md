@@ -5,8 +5,7 @@
 ---
 
 ## 🖌 Logo / Branding  
-*(Replace with your actual logo once designed)*  
-![ShipIt365 Logo](https://via.placeholder.com/800x200.png?text=ShipIt365+-+Build.+Ship.+Repeat.)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2d771a03-8b70-4588-8ec3-6ea537c2770c" />
 
 ---
 
